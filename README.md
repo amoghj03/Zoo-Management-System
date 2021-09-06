@@ -14,3 +14,12 @@ OUTPUT:
 ![5](https://user-images.githubusercontent.com/43008016/132183778-6521c888-d4a8-4998-adfd-366a9e865b80.jpg)
 
   
+## Contributing
+
+Please fork this repository and contribute back using
+[pull requests](https://github.com/amoghj03/Bus-Ticket-Booking-App/pulls).
+
+### Contact - Let's become friend
+- [Github](https://github.com/amoghj03)
+- [Linkedin](https://www.linkedin.com/in/amogh-j-956bb517a/)
+- [Facebook](https://www.facebook.com/amogh.jutoor)  
